@@ -9,7 +9,7 @@ import android.view.View
 /**
  * @see RoundDrawable
  */
-internal object RoundViewHelper {
+object RoundViewHelper {
     /**
      * 转换背景为RoundDrawable 可进行View的bg自定义
      *
